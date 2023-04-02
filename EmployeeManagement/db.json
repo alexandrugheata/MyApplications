@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "firstname": "asss",
+      "lastname": "asd",
+      "birthday": "2023-03-02",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "asda",
+      "jobExperience": 2,
+      "salary": "3333",
+      "profile": "Picture2.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "mi",
+      "lastname": "ro",
+      "birthday": "2023-02-28",
+      "gender": "f",
+      "education": "10th pass",
+      "company": "asda",
+      "jobExperience": 2,
+      "salary": "222",
+      "profile": "Picture4.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Mihai ",
+      "lastname": "Bendeac",
+      "birthday": "2023-03-17",
+      "gender": "m",
+      "company": "Antena 1",
+      "jobExperience": 3,
+      "salary": "2500",
+      "profile": "Picture1.jpg",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
