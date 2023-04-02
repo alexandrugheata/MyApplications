@@ -13,7 +13,7 @@ import { FormsModule } from '@angular/forms';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule,//to inject  http client inside the constructor
+    HttpClientModule,
     FormsModule
   ],
   providers: [],
